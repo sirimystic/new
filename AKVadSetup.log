@@ -1,0 +1,32 @@
+
+=================================================
+2025-12-23 17:34:11
+=================================================
+Version: Sep 18 2024 16:50:06
+IsUserAnAdmin=1
+
+ProductName=Windows 10 Home Single Language
+CurrentVersion=6.3
+CurrentBuild=26100
+ReleaseId=2009
+DisplayVersion=24H2
+Boot time: 2025-11-21 11:25:1717:34:11.589 [Msg] [AKVadSetup][11048] 1.Uninstall
+17:34:11.595 [Msg] [AKVadSetup][11048] CheckCurrentDriverChannels: Not found device
+17:34:11.798 [Msg] [AKVadSetup][11048] DeleteAudioService...
+17:34:11.798 [Msg] [AKVadSetup][11048] Stop service:AKVAD_AUDIO_Service
+17:34:11.798 [Msg] [AKVadSetup][11048] The specified service does not exist as an installed service.
+17:34:11.798 [Msg] [AKVadSetup][11048] Delete service:AKVAD_AUDIO_Service
+17:34:11.798 [Msg] [AKVadSetup][11048] The specified service does not exist as an installed service.
+17:34:11.798 [Msg] [AKVadSetup][11048] Stop service:AKVAD_DRIVER_Service
+17:34:11.798 [Msg] [AKVadSetup][11048] The specified service does not exist as an installed service.
+17:34:11.798 [Msg] [AKVadSetup][11048] Delete service:AKVAD_DRIVER_Service
+17:34:11.798 [Msg] [AKVadSetup][11048] The specified service does not exist as an installed service.
+17:34:11.798 [Msg] [AKVadSetup][11048] DeleteAudioService End.
+17:34:11.798 [Msg] [AKVadSetup][11048] DoQuerySvc::OpenService failed (1060)
+17:34:11.798 [Msg] [AKVadSetup][11048] DoQuerySvc::OpenService failed (1060)
+17:34:11.809 [Msg] [AKVadSetup][11048] DoQuerySvc::OpenService failed (1060)
+17:34:11.809 [Msg] [AKVadSetup][11048] DoQuerySvc::OpenService failed (1060)
+17:34:11.809 [Msg] [AKVadSetup][11048] Flash...
+17:34:11.809 [Msg] [AKVadSetup][11048] Flash end.
+17:34:11.809 [Msg] [AKVadSetup][11048] Result=0x0
+
